@@ -16,7 +16,7 @@ def main(f):
     for year in range(int(years_range)):
         next_compounded = calculate_year(compounded, year, float(invest_month), float(annual_rentability))
         total_invested = int(invest_month)*12*(year+1)
-        print(f"{year+1} | {next_compounded}  \t\t(invested: {total_invested}, year return: {round(next_compounded - (compounded + (int(invest_month)*12)), 2)})", file=f)
+        print(f"{year+1} | {next_compounded}   (invested: {total_invested}, year return: {round(next_compounded - (compounded + (int(invest_month)*12)), 2)})", file=f)
         compounded = next_compounded
 
     print(f"\nTotal Returned over the years: {round(compounded - total_invested, 2)}", file=f)
