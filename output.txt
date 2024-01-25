@@ -1,0 +1,20 @@
+S&P500 COMPOUNDING SIMULATOR
+-------------------------------------
+
+Invested per month: 350
+You will invest 4200 annually
+Expected annual rentability: 10
+Years range: 10
+
+1 | 4434.6  (invested: 4200, year return: 234.6)
+2 | 9333.56  (invested: 8400, year return: 698.96)
+3 | 14745.5  (invested: 12600, year return: 1211.94)
+4 | 20724.14  (invested: 16800, year return: 1778.64)
+5 | 27328.83  (invested: 21000, year return: 2404.69)
+6 | 34625.11  (invested: 25200, year return: 3096.28)
+7 | 42685.41  (invested: 29400, year return: 3860.3)
+8 | 51589.73  (invested: 33600, year return: 4704.32)
+9 | 61426.45  (invested: 37800, year return: 5636.72)
+10 | 72293.2  (invested: 42000, year return: 6666.75)
+
+Total Returned over the years: 30293.2
